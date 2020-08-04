@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-api/static/css/main.a7384938.chunk.css",
+    "main.js": "/breaking-bad-api/static/js/main.5e4422ba.chunk.js",
+    "main.js.map": "/breaking-bad-api/static/js/main.5e4422ba.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-api/static/js/runtime-main.64d326c8.js",
+    "runtime-main.js.map": "/breaking-bad-api/static/js/runtime-main.64d326c8.js.map",
+    "static/js/2.f90e20d8.chunk.js": "/breaking-bad-api/static/js/2.f90e20d8.chunk.js",
+    "static/js/2.f90e20d8.chunk.js.map": "/breaking-bad-api/static/js/2.f90e20d8.chunk.js.map",
+    "index.html": "/breaking-bad-api/index.html",
+    "precache-manifest.2cc3012ef2c6bd5be3f468053ccb9196.js": "/breaking-bad-api/precache-manifest.2cc3012ef2c6bd5be3f468053ccb9196.js",
+    "service-worker.js": "/breaking-bad-api/service-worker.js",
+    "static/css/main.a7384938.chunk.css.map": "/breaking-bad-api/static/css/main.a7384938.chunk.css.map",
+    "static/js/2.f90e20d8.chunk.js.LICENSE.txt": "/breaking-bad-api/static/js/2.f90e20d8.chunk.js.LICENSE.txt",
+    "static/media/tenor.gif": "/breaking-bad-api/static/media/tenor.6a5bcfba.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64d326c8.js",
+    "static/js/2.f90e20d8.chunk.js",
+    "static/css/main.a7384938.chunk.css",
+    "static/js/main.5e4422ba.chunk.js"
+  ]
+}
